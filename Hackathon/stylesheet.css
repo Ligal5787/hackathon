@@ -1,0 +1,25 @@
+header {
+    background-image:url(https://i2.wp.com/files.123freevectors.com/wp-content/original/104239-red-stripes-pattern.jpg?w=800&q=95);
+   
+ }
+ img {
+     float:right
+
+   }
+   p {
+       text-align: center;
+       position: relative;
+   }
+   h3 {
+       text-align: center;
+       position: relative;
+
+   }
+   h1{
+       text-align: center;
+       position: relative;
+
+   }
+   li{
+       display: inline;
+   }

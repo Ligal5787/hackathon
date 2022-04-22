@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://netdna.coolthings.com/wp-content/uploads/2015/07/wheres-wally-beach-mural-1.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+img {
+    position: absolute;
+  left: 100px;
+  top: 150px;
+}
+h3 {
+    position:center bottom
+}
